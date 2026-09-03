@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: i kept pushing
 pubDate: 2026-09-03
 description: "it's my second blog post"

@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: 'im sick of my own sickness'
 pubDate: 2026-09-03
 description: 'this is the first post on my fresh blog. 2005 vibes'
